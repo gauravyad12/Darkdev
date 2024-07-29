@@ -12,6 +12,3 @@ Personal portfolio
 
 
 
-## License
-
-MIT
